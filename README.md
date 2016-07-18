@@ -1,6 +1,10 @@
 # Materialize Sass version for Rails Asset Pipeline
 [![Gem Version](https://badge.fury.io/rb/materialize-sass.svg)](http://badge.fury.io/rb/materialize-sass)
 
+This is a Turbolinks 5 compatible version of the [materialize-sass](https://github.com/mkhairi/materialize-sass) gem. No need for the unreliable 'jquery-rails' gem!
+
+---
+
 `materialize-sass` is a Sass powered version of [Materialize](http://materializecss.com), a modern responsive front-end framework based on Material Design.
 
 ## Installation
